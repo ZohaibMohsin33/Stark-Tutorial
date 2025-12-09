@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "computation": "fibonacci",
+  "result": 55,
+  "trace_commitment": "dd4c4b13f7bb1bef0b8f00f4ce6764388bd321f610a44f1e133f3adacf9fe00a",
+  "constraint_evaluations": [
+    1,
+    0,
+    1,
+    1,
+    2,
+    1,
+    3,
+    2,
+    5,
+    3
+  ],
+  "challenge": "c98f0a8484462ebc",
+  "fri_layers": [
+    "97fc4ef2f7c8e2d25b2a146d2a6bf56f5acf2c08c675a5df8a79bafe4f19d84a",
+    "b5ef4565a8be7ac525af7bff9e35e7ba957a2758504706a928ad30cb66690743",
+    "317eb1a0eada0cbab9ee97531820411277bbf7141e529c939088c0dfe580538c"
+  ],
+  "timestamp": 1765267439.7610683,
+  "security_bits": 128
+}
