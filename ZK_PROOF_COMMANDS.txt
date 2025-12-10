@@ -9,7 +9,7 @@ Choose one of these two paths below:
 ⚡ OPTION 1: PYTHON VERSION (Quickest - 2 minutes)
 ────────────────────────────────────────────────────────────────────────────────
 
-Step 1: Navigate to Python project
+Step 1: Navigate to Python project 
   cd c:\Users\PC-09\Desktop\starknet\stark_prover_verifier
 
 Step 2: Run the COMPLETE DEMO (Shows everything)
